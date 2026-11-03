@@ -13,7 +13,7 @@
     <main>
       <NuxtPage />
     </main>
-    <footer class="site-footer">Universidad Mayor · Recursos académicos</footer>
+    <footer class="site-footer">Universidad Colegio Mayor de Cundinamarca · Recursos académicos</footer>
   </div>
 </template>
 
