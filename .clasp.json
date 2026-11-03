@@ -1,0 +1,8 @@
+{
+  "scriptId": "1IaF8NMRQEyp1gMkbu07MukM3TdrXCRQdSx7RLBcujUPqwXY-pghUy1qL",
+  "rootDir": "gas-dist",
+  "filePushOrder": [
+    "appsscript.json",
+    "Code.js"
+  ]
+}

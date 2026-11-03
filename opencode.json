@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "engram": {
+      "type": "local",
+      "enabled": true,
+      "command": ["node", "scripts/engram.js", "mcp", "--project", "gas-enlaces-2027", "--tools", "agent"]
+    }
+  }
+}

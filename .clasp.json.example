@@ -1,0 +1,8 @@
+{
+  "scriptId": "REPLACE_WITH_APPS_SCRIPT_ID",
+  "rootDir": "server",
+  "filePushOrder": [
+    "appsscript.json",
+    "apps-script-entrypoint.js"
+  ]
+}

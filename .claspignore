@@ -1,0 +1,9 @@
+node_modules/**
+test/**
+openspec/**
+app/**
+*.test.js
+README.md
+server/**
+gas-dist/Code.js
+package*.json
