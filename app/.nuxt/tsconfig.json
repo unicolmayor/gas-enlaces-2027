@@ -104,7 +104,7 @@
         "./types/app-manifest"
       ],
       "#components": [
-        "./components"
+        "./components.d.ts"
       ],
       "@nuxt/nitro-server/request-types": [
         "../node_modules/@nuxt/nitro-server/dist/request-types.d.mts"
@@ -226,6 +226,7 @@
   ],
   "exclude": [
     "../node_modules",
+    "../../node_modules",
     "../node_modules/nuxt/node_modules",
     "../node_modules/@nuxt/telemetry/node_modules",
     "../dist",

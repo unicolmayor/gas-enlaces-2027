@@ -119,7 +119,7 @@
         "../node_modules/crossws"
       ],
       "#build/server-routes": [
-        "./types/shared-server-routes.d.ts"
+        "./types/shared-server-routes"
       ],
       "#build": [
         "."

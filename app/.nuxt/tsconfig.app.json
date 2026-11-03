@@ -104,7 +104,7 @@
         "./types/app-manifest"
       ],
       "#components": [
-        "./components"
+        "./components.d.ts"
       ],
       "@nuxt/nitro-server/request-types": [
         "../node_modules/@nuxt/nitro-server/dist/request-types.d.mts"
@@ -183,6 +183,7 @@
     "../layers/*/modules/*/runtime/**/*.vue"
   ],
   "exclude": [
+    "../../node_modules",
     "../dist",
     "../.data",
     "../server/**/*",
@@ -240,7 +241,7 @@
     "../node_modules/dist/*.tsx",
     "../node_modules/dist/*.jsx",
     "../node_modules/dist/*.vue",
-    "../.output",
+    "dev",
     "../server"
   ],
   "vueCompilerOptions": {
