@@ -1,11 +1,10 @@
 {
-  "pid": 13960,
-  "startedAt": 1793739815031,
+  "pid": 42404,
+  "startedAt": 1793740521747,
   "interactive": false,
   "command": "dev",
   "cwd": "C:/Backup Oscar/OSCAR 2023/2025/WEB/gas-enlaces-2027/app",
-  "parentPid": 44028,
   "port": 3000,
-  "hostname": "::1",
-  "url": "http://[::1]:3000"
+  "hostname": "127.0.0.1",
+  "url": "http://127.0.0.1:3000"
 }
